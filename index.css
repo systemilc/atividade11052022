@@ -1,0 +1,19 @@
+.container{
+    width: 1000px;
+    height: 1000px;
+    background-color: aquamarine;
+}
+.quadro{
+    width: 100px;
+    height: 100px;
+}
+
+.div1{
+    background-color: #000;
+}
+.div2{
+    background-color: #000;
+}
+.div3{
+    background-color: #000;
+}
